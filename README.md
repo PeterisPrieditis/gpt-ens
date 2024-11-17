@@ -1,6 +1,6 @@
 # gpt-ens
 
-![gpt-ens](./img/gpts.png)
+![gpt-ens](./img/gpt.webp)
 ENS-AI Agent Registry (ENS-AR)
 
 ## AI Agent Subname Minting on L2
